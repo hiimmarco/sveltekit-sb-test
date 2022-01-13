@@ -1,5 +1,9 @@
 <script>
-	import Header from '../components/Header/Header.svelte';
+	import Button from '../components/Button.svelte';
 </script>
 
-<Header />
+<main>
+	<h1>This is a test</h1>
+	<Button />
+	<p>Hello</p>
+</main>

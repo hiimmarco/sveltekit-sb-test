@@ -33,6 +33,7 @@
 	name="Primary"
 	args={{
 		primary: true,
+		backgroundColor: 'bg-pink-500',
 		label: 'Button'
 	}}
 />
@@ -40,7 +41,8 @@
 <Story
 	name="Secondary"
 	args={{
-		label: 'Button'
+		label: 'Button',
+		backgroundColor: 'bg-pink-500'
 	}}
 />
 <Story
